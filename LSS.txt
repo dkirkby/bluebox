@@ -1,0 +1,12 @@
+ name                        | start    | duration  | location  | method           | status    | ramp_up  | ramp_down  | row
+ KiDS                        | 2011.0   | 8.5       | Ground    | Imaging          | Approved  |          |            |
+ BOSS                        | 2009.0   | 5.0       | Ground    | Spectro          | Approved  |          |            | eBOSS
+ eBOSS                       | 2014.0   | 5.25      | Ground    | Spectro          | Approved  |          |            |
+ DES                         | 2013.0   | 6.1       | Ground    | Imaging          | Approved  |          |            |
+ HETDEX                      | 2018.0   | 3.0       | Ground    | Spectro          | Approved  |          |            |
+ PFS                         | 2023.0   | 6.0       | Ground    | Spectro          | Approved  |          |            |
+ DESI                        | 2021.0   | 5.0       | Ground    | Spectro          | Approved  |          |            |
+ MSE/MegaMapper/SpecTel      | 2029.0   | 5.0       | Ground    | Spectro          | Proposed  |          |            |
+ EUCLID                      | 2022.0   | 6.0       | Space     | Spectro+Imaging  | Approved  |          |            |
+ VERA RUBIN OBS (LSST)       | 2022.75  | 10.0      | Ground    | Imaging          | Approved  |          |            |
+ NANCY GRACE ROMAN (WFIRST)  | 2025.0   | 5.0       | Space     | Spectro+Imaging  | Approved  |          |            |

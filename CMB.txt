@@ -1,0 +1,15 @@
+ name          | start   | duration  | location      | method     | status    | ramp_up  | ramp_down  | row
+ PLANCK        | 2009.5  | 4.3       | Space         | Microwave  | Approved  |          |            |
+ SPIDER-2      | 2021.9  | 0.2       | Balloon       | Microwave  | Approved  |          |            |
+ BFORE         | 2025.9  | 0.2       | Balloon       | Microwave  | Proposed  |          |            |
+ LiteBIRD      | 2027.0  | 3.0       | Space         | Microwave  | Approved  |          |            |
+ PICO          | 2029.0  | 5.0       | Space         | Microwave  | Proposed  |          |            |
+ CMB-HD        | 2029.0  | 5.0       | Atacama       | Microwave  | Proposed  |          |            |
+ ADV-ACT       | 2017.5  | 5.0       | Atacama       | Microwave  | Approved  |          |            |
+ SIMONS ARRAY  | 2021.0  | 3.0       | Atacama       | Microwave  | Approved  | 2.0      |            |
+ SIMONS OBS    | 2022.5  | 5.0       | Atacama       | Microwave  | Approved  | 1.5      |            |
+ CMB-S4        | 2029.0  | 7.0       | Atacama+Pole  | Microwave  | Approved  | 2.0      |            |
+ BICEP ARRAY   | 2023.0  | 3.0       | Pole          | Microwave  | Approved  | 3.0      |            |
+ SPT-3G        | 2017.5  | 6.5       | Pole          | Microwave  | Approved  |          |            |
+ BICEP3        | 2015.5  | 7.5       | Pole          | Microwave  | Approved  |          |            |
+ KECK ARRAY    | 2015.5  | 4.5       | Pole          | Microwave  | Approved  |          |            |
