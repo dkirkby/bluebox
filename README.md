@@ -6,6 +6,11 @@ To make your own plots, clone [this repo](https://github.com/dkirkby/bluebox.git
 
 To add or correct a project description in this repo, please [create an issue](https://github.com/dkirkby/bluebox/issues/new) or make a pull request.
 
+The repo `README.md` is generated automatically from this file using:
+```
+jupyter nbconvert --to markdown README.ipynb
+```
+
 
 ```python
 %matplotlib inline
